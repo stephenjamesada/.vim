@@ -16,6 +16,7 @@ Neovim, in my experience, was harder for me to set up, so I prefer Vim for its m
 - [mappings.vim](mappings.vim) => Configured keybindings
 - [options.vim](options.vim) => Tweaks to the editor overall
 - [statusline.vim](statusline.vim) => Separate statusline file
+- [vimrc](vimrc) => Plain text `.vimrc` template; mainly sources and reads the files above
 
 ## How to Use
 
