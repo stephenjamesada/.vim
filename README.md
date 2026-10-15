@@ -18,16 +18,6 @@ Neovim, in my experience, was harder for me to set up, so I prefer Vim for its m
 - [statusline.vim](statusline.vim) => Separate statusline file
 - [vimrc](vimrc) => Plain text `.vimrc` template; mainly sources and reads the files above
 
-## Mappings
-
-- Leader: Space
-
-### File Saving and Exiting
-
-- `x` = `<Leader>:xit`
-- `w` = `<Leader>:update`
-- `q` = `<Leader>:quit`
-
 ## How to Use
 
 > Make sure to back up your previous .vimrc before using this configuration.
