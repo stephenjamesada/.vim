@@ -24,7 +24,8 @@ Neovim, in my experience, was harder for me to set up, so I prefer Vim for its m
 > But, this configuration's modularity makes it easier to add or remove to your Vim editor.
 
 ```bash
+cp ~/.vimrc .vimrc.bak # Back up previous vimrc, wherever it is
 git clone https://github.com/stephenjamesada/.vim.git
 cd .vim
-cp -r vimrc ~/.vimrc # or wherever your .vimrc is
+cp -r vimrc ~/.vimrc
 ```
